@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "bookname": "The Royals",
+    "author": "Matt Finne",
+    "summary": "Penny Wilson has gotten used to it all. She's immune to their insults and threats. As for their pranks and punches, she's getting by. All she needs to do is survive ...",
+    "likes": 1,
+    "bookmark": true,
+    "comments": ["heyy there", "Hello"]
+  },
+  {
+    "id": 2,
+    "bookname": "Knowing the HUNT",
+    "author": "Daisy Black",
+    "summary": "When Haley discovers the truth behind Xavier, whose silence holds a deeper meaning, she sets her mind on making his life better one small step at a...",
+    "likes": 1,
+    "bookmark": true,
+    "comments": ["heyy there", "Hello"]
+  },
+  {
+    "id": 3,
+    "bookname": "Boot Camp",
+    "author": "Gigi",
+    "summary": "After running away from her problems for four years - her inability to run a mile ironically being one of them - Whitney Carmichael knows a fitness camp will kick start...",
+    "likes": 1,
+    "bookmark": false,
+    "comments": ["heyy there", "Hello"]
+  },
+  {
+    "id": 4,
+    "bookname": "Rejected and pregnant (#1)",
+    "author": "Aidenall",
+    "summary": "missing father, a whore of a mother and a brother who is emotionally abusive and angry when around her. That's tough enough right? But what happens when her soul mate r...",
+    "likes": 1,
+    "bookmark": false,
+    "comments": ["heyy there", "Hello"]
+  },
+  {
+    "id": 5,
+    "bookname": "𝐴 𝑃𝐼𝐸𝐶𝐸 𝑂𝐹 𝐶𝐴𝐾𝐸 | ✔︎...",
+    "author": "Daisy Black",
+    "summary": "The life of single father Enzo and bakery owner Zara is about to be flipped upside down, when Enzo's daughter Mia stumbles inside Zara's bakery ...",
+    "likes": 1,
+    "bookmark": true,
+    "comments": ["heyy there", "Hello"]
+  },
+  {
+    "id": 6,
+    "bookname": "Knowing unix HUNT",
+    "author": "Dreamy627",
+    "summary": "When Haley discovers the truth behind Xavier, whose silence holds a deeper meaning, she sets her mind on making his life better one small step at a...",
+    "likes": 31,
+    "bookmark": true,
+    "comments": ["heyy there", "Hello"]
+  },
+  {
+    "id": 7,
+    "bookname": "You're A Doll (COMPLETE)",
+    "author": "Daisy Black",
+    "summary": "Jessie Cross is a typical bad boy with the title. He loves cars and racing and is basically an adrenaline addict. He loves tattoos, music, the women. His friends and hi...",
+    "likes": 1,
+    "bookmark": true,
+    "comments": ["heyy there", "Hello"]
+  },
+  {
+    "id": 8,
+    "bookname": "Twenty Thousand Leagues Under the...",
+    "author": "Jules Verne",
+    "summary": "n 1866, ships of several nations spot a mysterious sea monster, which some suggest is a giant narwhal. The US government assembles an expedition to find and destroy the...",
+    "likes": 21,
+    "bookmark": true,
+    "comments": ["heyy there", "Hello"]
+  },
+  {
+    "id": 9,
+    "bookname": "THE WAR OF THE WORLDS (Completed)",
+    "author": "H.G Wells",
+    "summary": "The War of the Worlds is a science fiction novel by English author H. G. Wells first serialised in 1897 in the UK by Pearson's Magazine and in the US by Cosmopolitan mag...",
+    "likes": 19,
+    "bookmark": true,
+    "comments": ["heyy there", "Hello"]
+  },
+  {
+    "id": 10,
+    "bookname": "Shepherd Moon",
+    "author": "Russell Practor",
+    "summary": "On the run from the Earth government and military forces, wanted former terrorist Maddy Hawthorn seeks a new life on Mars. When she discovers plans for another terrorist...",
+    "likes": 10,
+    "bookmark": true,
+    "comments": ["heyy there", "Hello"]
+  }
+]
