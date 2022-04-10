@@ -1,4 +1,4 @@
-import React from "react";
+import { React } from "react";
 import "./blogcard.scss";
 
 const Blogcard = (props) => {
