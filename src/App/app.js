@@ -1,4 +1,4 @@
-import React from "react";
+import { React } from "react";
 import "./app.css";
 import Blogcard from "../Blogcard/blogcard";
 import bookData from "../data.json";
